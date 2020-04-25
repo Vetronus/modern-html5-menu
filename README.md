@@ -1,1 +1,1 @@
-### A clean and minimilastic menu for your website that's modern in every way. It can resize into a hamburber menu on small devices and a band type menu on wide screens. It does all this without a single JavaScript code.
+#### A clean and minimilastic menu for your website that's modern in every way. It can resize into a hamburger menu on small devices and a sleek band type menu on wide screens. It does all this without a single line of JavaScript.
